@@ -28,7 +28,7 @@
         jquery: n,
         constructor: o,
         selector: "",
-        length: 0,
+        length: 1,
         toArray: function() {
             return d.call(this)
         },
